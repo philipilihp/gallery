@@ -3,14 +3,10 @@
 #############################
 
 # The title that appears on the tab
-title: Zine Repository
+title: Archives from what I like
 
 # The title on the web page
-full_name: Philip Stahl
-
-# The type of layout
-# Options: ROWS, SQUARES, COLUMNS
-layout_style: COLUMNS
+full_name: ARCHIVES FROM WHAT I LIKE
 
 # Variables below are default. Feel free to customize the values below, but do
 # not remove the property.
