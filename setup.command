@@ -6,6 +6,10 @@ SCRIPT_PATH=$(dirname "$0")
 
 # low res version of image
 python $SCRIPT_PATH/tools/duplicate.py min
+magick mogrify -resize 1024x $SCRIPT_PATH/photos/**/*.jpeg &>/dev/null
+magick mogrify -resize 1024x $SCRIPT_PATH/photos/**/*.png &>/dev/null
+magick mogrify -resize 1024x $SCRIPT_PATH/photos/**/*.jpg &>/dev/null
+
 magick mogrify -resize 640x $SCRIPT_PATH/photos/**/*.min.jpeg &>/dev/null
 magick mogrify -resize 640x $SCRIPT_PATH/photos/**/*.min.png &>/dev/null
 magick mogrify -resize 640x $SCRIPT_PATH/photos/**/*.min.jpg &>/dev/null

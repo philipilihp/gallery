@@ -1,108 +1,1076 @@
 {
   "Zines": [
     {
-      "width": 1848,
-      "height": 2592,
+      "width": 1024,
+      "height": 1411,
+      "path": "./photos/Zines/100-esgibtimmerwaszutuninv9.jpg",
+      "compressed_path": "./photos/Zines/100-esgibtimmerwaszutuninv9.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/100-esgibtimmerwaszutuninv9.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1436,
       "path": "./photos/Zines/100-freiereintritt.jpg",
       "compressed_path": "./photos/Zines/100-freiereintritt.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Zines/100-freiereintritt.placeholder.jpg"
     },
     {
-      "width": 1776,
-      "height": 2512,
+      "width": 1024,
+      "height": 1369,
+      "path": "./photos/Zines/100-howitcametothiswhatitis.jpg",
+      "compressed_path": "./photos/Zines/100-howitcametothiswhatitis.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/100-howitcametothiswhatitis.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1451,
+      "path": "./photos/Zines/100-incognitomagazine.jpg",
+      "compressed_path": "./photos/Zines/100-incognitomagazine.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/100-incognitomagazine.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1491,
+      "path": "./photos/Zines/AndreSaraiva-mr_a.jpg",
+      "compressed_path": "./photos/Zines/AndreSaraiva-mr_a.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/AndreSaraiva-mr_a.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1562,
+      "path": "./photos/Zines/bronco.jpg",
+      "compressed_path": "./photos/Zines/bronco.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/bronco.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1326,
+      "path": "./photos/Zines/cap-buch.jpg",
+      "compressed_path": "./photos/Zines/cap-buch.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/cap-buch.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1382,
+      "path": "./photos/Zines/cargocult.jpg",
+      "compressed_path": "./photos/Zines/cargocult.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/cargocult.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1484,
+      "path": "./photos/Zines/cokney-horeswithnoname.jpg",
+      "compressed_path": "./photos/Zines/cokney-horeswithnoname.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/cokney-horeswithnoname.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1467,
+      "path": "./photos/Zines/davelechimp.jpg",
+      "compressed_path": "./photos/Zines/davelechimp.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/davelechimp.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1442,
+      "path": "./photos/Zines/davethechimp-dislocated_head.jpg",
+      "compressed_path": "./photos/Zines/davethechimp-dislocated_head.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/davethechimp-dislocated_head.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1447,
+      "path": "./photos/Zines/davethechimp-fuckedup.jpg",
+      "compressed_path": "./photos/Zines/davethechimp-fuckedup.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/davethechimp-fuckedup.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1448,
       "path": "./photos/Zines/davethechimp-idiotisland.jpg",
       "compressed_path": "./photos/Zines/davethechimp-idiotisland.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Zines/davethechimp-idiotisland.placeholder.jpg"
     },
     {
-      "width": 2528,
-      "height": 3509,
+      "width": 1024,
+      "height": 1506,
+      "path": "./photos/Zines/dff_calais.jpg",
+      "compressed_path": "./photos/Zines/dff_calais.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/dff_calais.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1421,
       "path": "./photos/Zines/dominik-4thetopoftafel.jpg",
       "compressed_path": "./photos/Zines/dominik-4thetopoftafel.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Zines/dominik-4thetopoftafel.placeholder.jpg"
     },
     {
-      "width": 1792,
-      "height": 2576,
+      "width": 1024,
+      "height": 1455,
+      "path": "./photos/Zines/dominik-emptypictures5.jpg",
+      "compressed_path": "./photos/Zines/dominik-emptypictures5.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/dominik-emptypictures5.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1444,
+      "path": "./photos/Zines/dominik-goodluckandsafejourney.jpg",
+      "compressed_path": "./photos/Zines/dominik-goodluckandsafejourney.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/dominik-goodluckandsafejourney.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 735,
+      "path": "./photos/Zines/dominik-text3.jpg",
+      "compressed_path": "./photos/Zines/dominik-text3.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/dominik-text3.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1473,
+      "path": "./photos/Zines/emmett_e_spruehlinien.jpg",
+      "compressed_path": "./photos/Zines/emmett_e_spruehlinien.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/emmett_e_spruehlinien.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1455,
+      "path": "./photos/Zines/flash.jpg",
+      "compressed_path": "./photos/Zines/flash.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/flash.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1471,
+      "path": "./photos/Zines/geo-alleininnewyork.jpg",
+      "compressed_path": "./photos/Zines/geo-alleininnewyork.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/geo-alleininnewyork.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1470,
+      "path": "./photos/Zines/geo-nextstopunknown.jpg",
+      "compressed_path": "./photos/Zines/geo-nextstopunknown.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/geo-nextstopunknown.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1409,
+      "path": "./photos/Zines/germesgang-the-false-image-i-have-of-you.jpg",
+      "compressed_path": "./photos/Zines/germesgang-the-false-image-i-have-of-you.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/germesgang-the-false-image-i-have-of-you.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1458,
+      "path": "./photos/Zines/gossenpost_no2.jpg",
+      "compressed_path": "./photos/Zines/gossenpost_no2.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/gossenpost_no2.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1460,
+      "path": "./photos/Zines/gues-Anxietyhasmanyfaces.jpg",
+      "compressed_path": "./photos/Zines/gues-Anxietyhasmanyfaces.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/gues-Anxietyhasmanyfaces.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1558,
+      "path": "./photos/Zines/gues-evilheartedyou.jpg",
+      "compressed_path": "./photos/Zines/gues-evilheartedyou.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/gues-evilheartedyou.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1472,
       "path": "./photos/Zines/gues-iamoverthecity.jpg",
       "compressed_path": "./photos/Zines/gues-iamoverthecity.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Zines/gues-iamoverthecity.placeholder.jpg"
     },
     {
-      "width": 1768,
-      "height": 2544,
+      "width": 1024,
+      "height": 1474,
+      "path": "./photos/Zines/gues-Images_of_Delusion.jpg",
+      "compressed_path": "./photos/Zines/gues-Images_of_Delusion.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/gues-Images_of_Delusion.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1473,
       "path": "./photos/Zines/gues-Jpg.jpg",
       "compressed_path": "./photos/Zines/gues-Jpg.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Zines/gues-Jpg.placeholder.jpg"
     },
     {
-      "width": 2496,
-      "height": 3509,
+      "width": 1024,
+      "height": 1440,
       "path": "./photos/Zines/gues-rougebanane.jpg",
       "compressed_path": "./photos/Zines/gues-rougebanane.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Zines/gues-rougebanane.placeholder.jpg"
     },
     {
-      "width": 1832,
-      "height": 3509,
+      "width": 1024,
+      "height": 1496,
+      "path": "./photos/Zines/gues-Sanstitrebleu.jpg",
+      "compressed_path": "./photos/Zines/gues-Sanstitrebleu.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/gues-Sanstitrebleu.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1458,
+      "path": "./photos/Zines/gues-stupid.jpg",
+      "compressed_path": "./photos/Zines/gues-stupid.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/gues-stupid.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1613,
+      "path": "./photos/Zines/gues-Styx.jpg",
+      "compressed_path": "./photos/Zines/gues-Styx.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/gues-Styx.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1476,
+      "path": "./photos/Zines/gues-theworldindevotion.jpg",
+      "compressed_path": "./photos/Zines/gues-theworldindevotion.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/gues-theworldindevotion.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1454,
+      "path": "./photos/Zines/gues_wxyz_eda.jpg",
+      "compressed_path": "./photos/Zines/gues_wxyz_eda.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/gues_wxyz_eda.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1340,
+      "path": "./photos/Zines/honet-iwantdisipline.jpg",
+      "compressed_path": "./photos/Zines/honet-iwantdisipline.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/honet-iwantdisipline.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1961,
       "path": "./photos/Zines/horfe-archivesfromthethingsweliketodo.jpg",
       "compressed_path": "./photos/Zines/horfe-archivesfromthethingsweliketodo.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Zines/horfe-archivesfromthethingsweliketodo.placeholder.jpg"
     },
     {
-      "width": 2464,
-      "height": 3509,
+      "width": 1024,
+      "height": 1458,
       "path": "./photos/Zines/horfe-horphe.jpg",
       "compressed_path": "./photos/Zines/horfe-horphe.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Zines/horfe-horphe.placeholder.jpg"
     },
     {
-      "width": 2040,
-      "height": 2888,
+      "width": 1024,
+      "height": 1408,
+      "path": "./photos/Zines/horfe-netweight.jpg",
+      "compressed_path": "./photos/Zines/horfe-netweight.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/horfe-netweight.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1414,
+      "path": "./photos/Zines/horfee-aint_no_doodles.jpg",
+      "compressed_path": "./photos/Zines/horfee-aint_no_doodles.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/horfee-aint_no_doodles.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1430,
+      "path": "./photos/Zines/horfee-archive.jpg",
+      "compressed_path": "./photos/Zines/horfee-archive.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/horfee-archive.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1450,
       "path": "./photos/Zines/horfee-blur-life-choice.jpg",
       "compressed_path": "./photos/Zines/horfee-blur-life-choice.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Zines/horfee-blur-life-choice.placeholder.jpg"
     },
     {
-      "width": 2264,
-      "height": 2968,
+      "width": 1024,
+      "height": 1342,
       "path": "./photos/Zines/horfee-Carnapal.jpg",
       "compressed_path": "./photos/Zines/horfee-Carnapal.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Zines/horfee-Carnapal.placeholder.jpg"
     },
     {
-      "width": 1672,
-      "height": 2048,
+      "width": 1024,
+      "height": 1177,
+      "path": "./photos/Zines/horfee-drug.jpg",
+      "compressed_path": "./photos/Zines/horfee-drug.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/horfee-drug.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1066,
+      "path": "./photos/Zines/horfee-HIGHONEBAY.jpg",
+      "compressed_path": "./photos/Zines/horfee-HIGHONEBAY.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/horfee-HIGHONEBAY.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1453,
+      "path": "./photos/Zines/horfee-neverwantedthis.jpg",
+      "compressed_path": "./photos/Zines/horfee-neverwantedthis.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/horfee-neverwantedthis.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1483,
+      "path": "./photos/Zines/horfee-oz.jpg",
+      "compressed_path": "./photos/Zines/horfee-oz.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/horfee-oz.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1409,
+      "path": "./photos/Zines/horfee-saeio-fils-unique.jpg",
+      "compressed_path": "./photos/Zines/horfee-saeio-fils-unique.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/horfee-saeio-fils-unique.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1460,
+      "path": "./photos/Zines/horfee-trainfury2.jpg",
+      "compressed_path": "./photos/Zines/horfee-trainfury2.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/horfee-trainfury2.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1468,
+      "path": "./photos/Zines/horfee-vssf.jpg",
+      "compressed_path": "./photos/Zines/horfee-vssf.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/horfee-vssf.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1534,
+      "path": "./photos/Zines/horfee-YELLOWBIKINI.jpg",
+      "compressed_path": "./photos/Zines/horfee-YELLOWBIKINI.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/horfee-YELLOWBIKINI.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1254,
       "path": "./photos/Zines/horfeexleonsadler.jpg",
       "compressed_path": "./photos/Zines/horfeexleonsadler.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Zines/horfeexleonsadler.placeholder.jpg"
     },
     {
-      "width": 1824,
-      "height": 2624,
+      "width": 1024,
+      "height": 1481,
+      "path": "./photos/Zines/huskmitnavn-causingazine.jpg",
+      "compressed_path": "./photos/Zines/huskmitnavn-causingazine.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/huskmitnavn-causingazine.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1463,
+      "path": "./photos/Zines/ilk-drawings_and_internet_nerdings.jpg",
+      "compressed_path": "./photos/Zines/ilk-drawings_and_internet_nerdings.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/ilk-drawings_and_internet_nerdings.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1473,
       "path": "./photos/Zines/joellesaux-transmission.jpg",
       "compressed_path": "./photos/Zines/joellesaux-transmission.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Zines/joellesaux-transmission.placeholder.jpg"
     },
     {
-      "width": 1550,
-      "height": 2256,
+      "width": 1024,
+      "height": 1490,
       "path": "./photos/Zines/keno-easy_writer.jpg",
       "compressed_path": "./photos/Zines/keno-easy_writer.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Zines/keno-easy_writer.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 728,
+      "path": "./photos/Zines/kensortais.jpg",
+      "compressed_path": "./photos/Zines/kensortais.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/kensortais.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1457,
+      "path": "./photos/Zines/kimgorden-chronicles1.jpg",
+      "compressed_path": "./photos/Zines/kimgorden-chronicles1.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/kimgorden-chronicles1.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1409,
+      "path": "./photos/Zines/kuchenbaum.jpg",
+      "compressed_path": "./photos/Zines/kuchenbaum.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/kuchenbaum.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1443,
+      "path": "./photos/Zines/Lenouvelespritduvandalisme-no-10-honte.jpg",
+      "compressed_path": "./photos/Zines/Lenouvelespritduvandalisme-no-10-honte.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/Lenouvelespritduvandalisme-no-10-honte.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1420,
+      "path": "./photos/Zines/Lenouvelespritduvandalisme-no3-SeineSaintDenisStyle.jpg",
+      "compressed_path": "./photos/Zines/Lenouvelespritduvandalisme-no3-SeineSaintDenisStyle.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/Lenouvelespritduvandalisme-no3-SeineSaintDenisStyle.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1432,
+      "path": "./photos/Zines/Lenouvelespritduvandalisme-no4-rt et justice.jpg",
+      "compressed_path": "./photos/Zines/Lenouvelespritduvandalisme-no4-rt et justice.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/Lenouvelespritduvandalisme-no4-rt et justice.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1438,
+      "path": "./photos/Zines/Lenouvelespritduvandalisme-no5.jpg",
+      "compressed_path": "./photos/Zines/Lenouvelespritduvandalisme-no5.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/Lenouvelespritduvandalisme-no5.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1433,
+      "path": "./photos/Zines/Lenouvelespritduvandalisme-no6-fieldeffects.jpg",
+      "compressed_path": "./photos/Zines/Lenouvelespritduvandalisme-no6-fieldeffects.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/Lenouvelespritduvandalisme-no6-fieldeffects.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1448,
+      "path": "./photos/Zines/leonsadler-alive-energy.jpg",
+      "compressed_path": "./photos/Zines/leonsadler-alive-energy.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/leonsadler-alive-energy.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1424,
+      "path": "./photos/Zines/leonsadler-antarctic-seal.jpg",
+      "compressed_path": "./photos/Zines/leonsadler-antarctic-seal.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/leonsadler-antarctic-seal.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1352,
+      "path": "./photos/Zines/leonsadler-sunflowers.jpg",
+      "compressed_path": "./photos/Zines/leonsadler-sunflowers.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/leonsadler-sunflowers.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1437,
+      "path": "./photos/Zines/leonsadler-warriorpose.jpg",
+      "compressed_path": "./photos/Zines/leonsadler-warriorpose.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/leonsadler-warriorpose.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1501,
+      "path": "./photos/Zines/leon_sadler-black_see.jpg",
+      "compressed_path": "./photos/Zines/leon_sadler-black_see.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/leon_sadler-black_see.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1443,
+      "path": "./photos/Zines/lesmysteriesdeparis.jpg",
+      "compressed_path": "./photos/Zines/lesmysteriesdeparis.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/lesmysteriesdeparis.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1215,
+      "path": "./photos/Zines/likelipsticktraces-buch.jpg",
+      "compressed_path": "./photos/Zines/likelipsticktraces-buch.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/likelipsticktraces-buch.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1409,
+      "path": "./photos/Zines/lospiratos-yesweare.jpg",
+      "compressed_path": "./photos/Zines/lospiratos-yesweare.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/lospiratos-yesweare.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1516,
+      "path": "./photos/Zines/mayahayuk-kunstagentin.jpg",
+      "compressed_path": "./photos/Zines/mayahayuk-kunstagentin.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/mayahayuk-kunstagentin.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1444,
+      "path": "./photos/Zines/mosa-bubbleking.jpg",
+      "compressed_path": "./photos/Zines/mosa-bubbleking.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/mosa-bubbleking.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1471,
+      "path": "./photos/Zines/mosa-by-ralph-roelse.jpg",
+      "compressed_path": "./photos/Zines/mosa-by-ralph-roelse.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/mosa-by-ralph-roelse.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1422,
+      "path": "./photos/Zines/mosa-curtis-nova.jpg",
+      "compressed_path": "./photos/Zines/mosa-curtis-nova.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/mosa-curtis-nova.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1645,
+      "path": "./photos/Zines/mosa-dialoges.jpg",
+      "compressed_path": "./photos/Zines/mosa-dialoges.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/mosa-dialoges.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1463,
+      "path": "./photos/Zines/mosa-everynight.jpg",
+      "compressed_path": "./photos/Zines/mosa-everynight.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/mosa-everynight.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1439,
+      "path": "./photos/Zines/mosa-gandsh.jpg",
+      "compressed_path": "./photos/Zines/mosa-gandsh.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/mosa-gandsh.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1488,
+      "path": "./photos/Zines/mosa-nosleep.jpg",
+      "compressed_path": "./photos/Zines/mosa-nosleep.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/mosa-nosleep.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1426,
+      "path": "./photos/Zines/mosa-nstax.jpg",
+      "compressed_path": "./photos/Zines/mosa-nstax.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/mosa-nstax.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1431,
+      "path": "./photos/Zines/mosa-play.jpg",
+      "compressed_path": "./photos/Zines/mosa-play.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/mosa-play.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1500,
+      "path": "./photos/Zines/mosa-solar-plexus.jpg",
+      "compressed_path": "./photos/Zines/mosa-solar-plexus.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/mosa-solar-plexus.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1635,
+      "path": "./photos/Zines/mosa-SVBEEAU.jpg",
+      "compressed_path": "./photos/Zines/mosa-SVBEEAU.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/mosa-SVBEEAU.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1536,
+      "path": "./photos/Zines/mosa_tags.jpg",
+      "compressed_path": "./photos/Zines/mosa_tags.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/mosa_tags.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1504,
+      "path": "./photos/Zines/nicolasoran.jpg",
+      "compressed_path": "./photos/Zines/nicolasoran.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/nicolasoran.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1412,
+      "path": "./photos/Zines/nug-iamjusttryingtobenice.jpg",
+      "compressed_path": "./photos/Zines/nug-iamjusttryingtobenice.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/nug-iamjusttryingtobenice.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1453,
+      "path": "./photos/Zines/optionc-a115.jpg",
+      "compressed_path": "./photos/Zines/optionc-a115.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/optionc-a115.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1492,
+      "path": "./photos/Zines/optionc-realityunlimited.jpg",
+      "compressed_path": "./photos/Zines/optionc-realityunlimited.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/optionc-realityunlimited.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1445,
+      "path": "./photos/Zines/pablo-tomek-mi-figue-mi-raisin.jpg",
+      "compressed_path": "./photos/Zines/pablo-tomek-mi-figue-mi-raisin.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/pablo-tomek-mi-figue-mi-raisin.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1459,
+      "path": "./photos/Zines/pasdechance-fragzeichen.jpg",
+      "compressed_path": "./photos/Zines/pasdechance-fragzeichen.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/pasdechance-fragzeichen.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1492,
+      "path": "./photos/Zines/pas_de_chance_nr4.jpg",
+      "compressed_path": "./photos/Zines/pas_de_chance_nr4.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/pas_de_chance_nr4.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1450,
+      "path": "./photos/Zines/pizza world 2014-bitch ink.jpg",
+      "compressed_path": "./photos/Zines/pizza world 2014-bitch ink.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/pizza world 2014-bitch ink.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1453,
+      "path": "./photos/Zines/raphael.jpg",
+      "compressed_path": "./photos/Zines/raphael.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/raphael.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1343,
+      "path": "./photos/Zines/redhanded.jpg",
+      "compressed_path": "./photos/Zines/redhanded.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/redhanded.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1596,
+      "path": "./photos/Zines/remio-2ndedition.jpg",
+      "compressed_path": "./photos/Zines/remio-2ndedition.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/remio-2ndedition.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1582,
+      "path": "./photos/Zines/remio-CDKDBCZINE.jpg",
+      "compressed_path": "./photos/Zines/remio-CDKDBCZINE.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/remio-CDKDBCZINE.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1593,
+      "path": "./photos/Zines/remio-dontlookback.jpg",
+      "compressed_path": "./photos/Zines/remio-dontlookback.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/remio-dontlookback.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1446,
+      "path": "./photos/Zines/remio-itsonlyanumber.jpg",
+      "compressed_path": "./photos/Zines/remio-itsonlyanumber.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/remio-itsonlyanumber.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1552,
+      "path": "./photos/Zines/remio-sleepner-gemeos.jpg",
+      "compressed_path": "./photos/Zines/remio-sleepner-gemeos.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/remio-sleepner-gemeos.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1588,
+      "path": "./photos/Zines/remio-WARNING24HOURSURVEILLANCEZINE.jpg",
+      "compressed_path": "./photos/Zines/remio-WARNING24HOURSURVEILLANCEZINE.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/remio-WARNING24HOURSURVEILLANCEZINE.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1480,
+      "path": "./photos/Zines/richardkern.jpg",
+      "compressed_path": "./photos/Zines/richardkern.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/richardkern.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1238,
+      "path": "./photos/Zines/rizote-laOuRienEstGrave.jpg",
+      "compressed_path": "./photos/Zines/rizote-laOuRienEstGrave.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/rizote-laOuRienEstGrave.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1480,
+      "path": "./photos/Zines/saeio-bintou-courte.jpg",
+      "compressed_path": "./photos/Zines/saeio-bintou-courte.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/saeio-bintou-courte.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1393,
+      "path": "./photos/Zines/saeio-buch.jpg",
+      "compressed_path": "./photos/Zines/saeio-buch.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/saeio-buch.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1426,
+      "path": "./photos/Zines/saeio-by-alxeandergil.jpg",
+      "compressed_path": "./photos/Zines/saeio-by-alxeandergil.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/saeio-by-alxeandergil.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1409,
+      "path": "./photos/Zines/saeio-incogintomagazin17.jpg",
+      "compressed_path": "./photos/Zines/saeio-incogintomagazin17.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/saeio-incogintomagazin17.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1353,
+      "path": "./photos/Zines/saeio-lolkiller.jpg",
+      "compressed_path": "./photos/Zines/saeio-lolkiller.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/saeio-lolkiller.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1421,
+      "path": "./photos/Zines/saeio-mega-wizzard.jpg",
+      "compressed_path": "./photos/Zines/saeio-mega-wizzard.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/saeio-mega-wizzard.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1392,
+      "path": "./photos/Zines/saeio-MERCURIALES.jpg",
+      "compressed_path": "./photos/Zines/saeio-MERCURIALES.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/saeio-MERCURIALES.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1472,
+      "path": "./photos/Zines/saeio-NolensVolens.jpg",
+      "compressed_path": "./photos/Zines/saeio-NolensVolens.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/saeio-NolensVolens.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1460,
+      "path": "./photos/Zines/sashakurmaz-nudesensitivity.jpg",
+      "compressed_path": "./photos/Zines/sashakurmaz-nudesensitivity.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/sashakurmaz-nudesensitivity.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1566,
+      "path": "./photos/Zines/sleepner-rosebeton.jpg",
+      "compressed_path": "./photos/Zines/sleepner-rosebeton.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/sleepner-rosebeton.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1442,
+      "path": "./photos/Zines/sonicksofiasuburbs.jpg",
+      "compressed_path": "./photos/Zines/sonicksofiasuburbs.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/sonicksofiasuburbs.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1426,
+      "path": "./photos/Zines/spair_mirror_talk.jpg",
+      "compressed_path": "./photos/Zines/spair_mirror_talk.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/spair_mirror_talk.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1451,
+      "path": "./photos/Zines/spe-binaird.jpg",
+      "compressed_path": "./photos/Zines/spe-binaird.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/spe-binaird.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1430,
+      "path": "./photos/Zines/stefan-marx-hesterst.jpg",
+      "compressed_path": "./photos/Zines/stefan-marx-hesterst.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/stefan-marx-hesterst.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1439,
+      "path": "./photos/Zines/stefanmarx-back.jpg",
+      "compressed_path": "./photos/Zines/stefanmarx-back.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/stefanmarx-back.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1431,
+      "path": "./photos/Zines/stefanmarx-policejokepainting.jpg",
+      "compressed_path": "./photos/Zines/stefanmarx-policejokepainting.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/stefanmarx-policejokepainting.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1440,
+      "path": "./photos/Zines/stefanmarx.jpg",
+      "compressed_path": "./photos/Zines/stefanmarx.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/stefanmarx.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1396,
+      "path": "./photos/Zines/stefan_marx_la.jpg",
+      "compressed_path": "./photos/Zines/stefan_marx_la.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/stefan_marx_la.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1463,
+      "path": "./photos/Zines/thegrifters.jpg",
+      "compressed_path": "./photos/Zines/thegrifters.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/thegrifters.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1465,
+      "path": "./photos/Zines/tomek-latibenardia.jpg",
+      "compressed_path": "./photos/Zines/tomek-latibenardia.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/tomek-latibenardia.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1446,
+      "path": "./photos/Zines/tomek-paris2014.jpg",
+      "compressed_path": "./photos/Zines/tomek-paris2014.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/tomek-paris2014.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1458,
+      "path": "./photos/Zines/tomek-photoaranger.jpg",
+      "compressed_path": "./photos/Zines/tomek-photoaranger.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/tomek-photoaranger.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1431,
+      "path": "./photos/Zines/tomek-stickit.jpg",
+      "compressed_path": "./photos/Zines/tomek-stickit.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/tomek-stickit.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1397,
+      "path": "./photos/Zines/tomek-TerenAlchemia.jpg",
+      "compressed_path": "./photos/Zines/tomek-TerenAlchemia.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/tomek-TerenAlchemia.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1429,
+      "path": "./photos/Zines/tomek_streetbonbon.jpg",
+      "compressed_path": "./photos/Zines/tomek_streetbonbon.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/tomek_streetbonbon.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1448,
+      "path": "./photos/Zines/tomek_travaux-publics.jpg",
+      "compressed_path": "./photos/Zines/tomek_travaux-publics.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/tomek_travaux-publics.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1329,
+      "path": "./photos/Zines/uzi-wufc.jpg",
+      "compressed_path": "./photos/Zines/uzi-wufc.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/uzi-wufc.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1458,
+      "path": "./photos/Zines/valentin tatauierung-tattoo 2014.jpg",
+      "compressed_path": "./photos/Zines/valentin tatauierung-tattoo 2014.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/valentin tatauierung-tattoo 2014.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1482,
+      "path": "./photos/Zines/zug-no9.jpg",
+      "compressed_path": "./photos/Zines/zug-no9.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/zug-no9.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1498,
+      "path": "./photos/Zines/zugmagazin-issue12.jpg",
+      "compressed_path": "./photos/Zines/zugmagazin-issue12.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/zugmagazin-issue12.placeholder.jpg"
+    },
+    {
+      "width": 1024,
+      "height": 1498,
+      "path": "./photos/Zines/zugmagazin-issue8.jpg",
+      "compressed_path": "./photos/Zines/zugmagazin-issue8.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Zines/zugmagazin-issue8.placeholder.jpg"
     }
   ]
 }
